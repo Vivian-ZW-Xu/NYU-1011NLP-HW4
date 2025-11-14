@@ -1,0 +1,13 @@
+*.pt
+*.pth
+checkpoints/
+out/
+out_augmented/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.pkl
+.vscode/
+.idea/
+*.swp
+.DS_Store
